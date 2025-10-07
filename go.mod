@@ -1,4 +1,4 @@
-module git.kldmp.com/Golang/hello-mcp
+module github.com/stanleyhsu/hello-mcp
 
 go 1.25
 

@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	"git.kldmp.com/Golang/hello-mcp/model"
 	"github.com/spf13/cobra"
+	"github.com/stanleyhsu/hello-mcp/model"
 
 	"log"
 
